@@ -7,4 +7,4 @@ def is_anagram(s: str, t: str) -> bool:
     return slist == tlist
 
 if __name__ == "__main__":
-    print(is_anagram("hello","olleh"))
+    print(is_anagram("hello", "olleh"))
